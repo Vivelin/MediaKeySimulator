@@ -1,4 +1,4 @@
-MediaKeySimulator
+Media Key Simulator
 =================
 
 A small program that simulates media keys when pressing certain key combinations.
